@@ -139,3 +139,4 @@ Run `python backend/model/generate_model.py` to regenerate the model.
 | Speech-to-Text | OpenAI Whisper (base model) |
 | Audio Processing | librosa, pydub |
 # PitchPerfect-AI-
+# PitchPerfect-AI-
