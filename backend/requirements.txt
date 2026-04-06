@@ -1,0 +1,8 @@
+flask
+flask-cors
+openai-whisper
+librosa
+pydub
+scikit-learn
+numpy
+scipy
